@@ -1,2 +1,1 @@
-# Ping_pong
- 
+Game "Ping-pong" for one player (WinForms project)
